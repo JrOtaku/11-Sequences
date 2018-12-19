@@ -568,7 +568,7 @@ def count_positive_sines(numbers):
             count += 1
     return count
     # -------------------------------------------------------------------------
-    # TODO: 7. Implement and test this function.
+    # Done: 7. Implement and test this function.
     #   Note that you should write its TEST function first (above).
     # -------------------------------------------------------------------------
 
